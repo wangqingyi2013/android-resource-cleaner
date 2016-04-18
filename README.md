@@ -1,5 +1,7 @@
 # android-resource-cleaner
 Automatically exported from code.google.com/p/android-resource-cleaner
+
+
 android上清除不用资源的工具
 
 1.改工具UI界面采用的java swing的Jframe窗口类； 
